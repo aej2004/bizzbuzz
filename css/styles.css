@@ -35,11 +35,11 @@ header img {
     font-weight: bold;
     font-size: larger;
 
-    padding: 20px 0px 20px 10px;
+    padding: 20px 0px 20px 20px;
     margin-bottom: 10px;
 
     border: black 4px solid;
-
+    border-radius: 20px;
 }   
 
 .nav-bar ul li a:hover {
