@@ -1,0 +1,46 @@
+1. Week 1–2: Setup
+
+Pick tech stack
+Set up repo + project structure
+Define core requirements & wireframes
+
+2. Week 3–4: Backend Basics
+
+Database models (users, products, posts, orders, messages)
+Auth + core CRUD APIs
+
+3. Week 5: Frontend Basics
+
+Layout, routing, main pages
+Connect backend APIs
+
+4. Week 6–7: Ordering
+
+Cart + checkout flow
+Order creation + payment mock
+
+5. Week 8: Map Feature
+
+Map integration
+Show store/delivery markers
+
+6. Week 9: Social Feed
+
+Post list + create post
+
+7. Week 10: Chat
+
+Real‑time messaging
+
+8. Week 11: Notifications
+
+In‑app or push notifications
+
+9. Week 12–13: Testing + Polish
+
+QA, bug fixes, UX improvements
+
+10. Week 14: Final Delivery
+
+Deployment
+Documentation + presentation
