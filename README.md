@@ -4,4 +4,4 @@ Bizz Buzz is an online social network the connects small business to their busin
 
 ## Platform / Workspace
 
-Bizz Bizz will be created mostly on using FlutterFlow, Supabase, and Resend but will also be later perfected and updateded on GitHub and Visual Studios. 
+Bizz Bizz will be created mostly on using FlutterFlow, Supabase, and Resend but will also be later perfected and updated on GitHub and Visual Studios. 
