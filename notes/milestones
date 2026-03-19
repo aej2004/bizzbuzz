@@ -26,7 +26,7 @@ Week 6-7: Authentication
 - Create Transfer from authentication to home page 
 
 
-Week 8-9: Social Feed & Photo Link 
+Week 8: Social Feed & Photo Link 
 
 - Uploading, creating, and seeing post on the feed 
 
@@ -35,12 +35,17 @@ Week 8-9: Social Feed & Photo Link
 - Personal profile link to post made 
 
 
-Week 10: Chat and Notifications 
+Week 9: Chat and Notifications 
 
 - Real-time messaging 
 
 - In-app or push notifications 
 
+Week 10: Viewer Logic
+
+- Default group based on location and following
+
+- Connect them with users within a certain miles from their location 
 
 Week 11-12: Map Feature and Ordering 
 
