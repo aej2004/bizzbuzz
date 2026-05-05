@@ -1,7 +1,7 @@
 # Bizz Buzz
 
-A new Flutter project.
+Bizz Buzz is an online social network the connects small business to their business community and target audience around them. Using Flutterflow, Supabase, and Resend I plan to create and upload this social app for my senior project. 
 
-## Getting Started
+## Platform / Workspace
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+Bizz Bizz will be created mostly on using FlutterFlow, Supabase, and Resend but will also be later perfected and updateded on GitHub and Visual Studios. 
